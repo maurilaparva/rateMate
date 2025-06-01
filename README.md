@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Chess Elo Prediction Logo" width="300" height="200">
+  <img src="images/logo.png" alt="Chess Elo Prediction Logo" width="200" height="200">
   <h3 align="center">Chess Elo Prediction</h3>
   <p align="center">
     A project for predicting chess Elo ratings using game features and machine learning algorithms.
